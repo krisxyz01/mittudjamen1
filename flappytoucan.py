@@ -5,8 +5,8 @@ import random
 pygame.init()
 
 # Set up display
-SCREEN_WIDTH = 450
-SCREEN_HEIGHT = 750
+SCREEN_WIDTH = 460
+SCREEN_HEIGHT = 780
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption('Flappy Bird')
 
